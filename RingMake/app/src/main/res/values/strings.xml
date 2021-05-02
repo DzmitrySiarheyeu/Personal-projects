@@ -1,0 +1,159 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Курсач Вика</string>
+    <string name="ringdroid_app_name">Рингтоны</string>
+
+    <string name="main_activity_label">Рингтоны</string>
+
+    <string name="search_edit_box">Поиск</string>
+
+    <string name="button_start_record_activity">Записать новый</string>
+
+    <string name="sdcard_readonly">Извините, SD-карта установлена только для чтения, и приложение Рингтоны требует, чтобы она была доступна для записи.</string>
+    <string name="no_sdcard">К сожалению, приложение Рингтоны не может работать, если у вас не вставлена SD-карта.</string>
+    <string name="sdcard_shared">К сожалению, приложение Рингтоны не может работать, пока ваш телефон подключен как USB-устройство.</string>
+
+
+    <string name="about_title">О приложении</string>
+    <string name="about_text">Создано для сдачи курсового проекта по дисциплине ПОМС.\n Автор проекта Виктория Жданович.\n Минск 2018.</string>
+
+    <string name="choose_contact_title">На какой контакт назначить рингтон?</string>
+    <string name="success_contact_ringtone">Успешное назначен рингтона для:</string>
+
+
+    <string name="bad_extension_error">Редактирование данного формата невозможно</string>
+    <string name="no_extension_error">Приложение Рингтон не может редактировать файлы, которые не имеют расширение .mp3 или .wav</string>
+
+    <string name="start_label">Начало:</string>
+    <string name="end_label">Конец:</string>
+
+    <string name="edit_intent">Изменить</string>
+
+    <string name="time_seconds">Секунд</string>
+
+    <string name="what_to_do_with_ringtone">Сохранено! Поставить этот рингтон по умолчанию или назначить его контакту?</string>
+    <string name="set_default_notification">Сохранено! Сделать это описание по умолчанию?</string>
+
+    <string name="make_default_ringtone_button">Использовать по умолчанию</string>
+    <string name="choose_contact_ringtone_button">Установить на контакт</string>
+    <string name="do_nothing_with_ringtone_button">Закрыть</string>
+
+    <string name="progress_dialog_loading">Загрузка…</string>
+    <string name="progress_dialog_recording">Запись…</string>
+    <string name="progress_dialog_saving">Сохранение…</string>
+    <string name="progress_dialog_cancel">Отмена</string>
+    <string name="progress_dialog_stop">Остановить</string>
+
+
+    <string name="start_marker">Начальная точка</string>
+    <string name="end_marker">Конечная точка</string>
+    <string name="rewind">Перемотка</string>
+    <string name="ffwd">Перемотка вперед</string>
+    <string name="zoom_in">Приблизить</string>
+    <string name="zoom_out">Отдалить</string>
+    <string name="save_button">Сохранить</string>
+
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_reset">Сброс</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_show_all_audio">Показать все песни</string>
+
+
+    <string name="context_menu_edit">Изменить</string>
+    <string name="context_menu_delete">Удалить</string>
+    <string name="context_menu_default_ringtone">Установить рингтон по умолчанию</string>
+    <string name="context_menu_contact">Установить на контакт</string>
+    <string name="context_menu_default_notification">Установить как рингтон уведомления</string>
+    <string name="save_success_message">Сохранено!</string>
+    <string name="default_ringtone_success_message">Изменена мелодия по умолчанию</string>
+    <string name="default_notification_success_message">Изменен звук уведомления по умолчанию</string>
+    <string name="play_error">Невозможно воспроизвести этот медиа-файла</string>
+    <string name="no_unique_filename">Невозможно найти уникальное имя файла</string>
+    <string name="record_error">Ошибка записи аудио</string>
+    <string name="too_small_error">Не возможно сохранить такой короткий рингтон, попробуйте сделать его длиннее.</string>
+    <string name="write_error">Ошибка записи файла</string>
+    <string name="read_error">Ошибка чтения файла</string>
+
+    <string name="no_space_error">Ваша SD-карта заполнена, недостаточно места для сохранения этого файла.</string>
+
+    <string name="file_save_title">Сохранить как:</string>
+    <string name="file_save_button_save">Сохранить</string>
+    <string name="file_save_button_cancel">Отменить</string>
+
+    <string name="ringtone_type_label">Тип:</string>
+
+    <string name="type_music">Музыка</string>
+    <string name="type_alarm">Будильник</string>
+    <string name="type_notification">Уведомления</string>
+    <string name="type_ringtone">Рингтон</string>
+
+    <string name="ringtone_name_label">Имя:</string>
+
+    <string name="delete_ringtone">Удалить рингтон</string>
+    <string name="delete_alarm">Удалить будильник</string>
+    <string name="delete_notification">Удалить уведомление</string>
+    <string name="delete_music">Удалить музыку</string>
+    <string name="delete_audio">Удалить аудио</string>
+
+    <string name="confirm_delete_ringdroid">Вы уверены?</string>
+    <string name="confirm_delete_non_ringdroid">Вы уверены? Этот файл не был создан приложением!</string>
+
+    <string name="delete_ok_button">Удалить</string>
+    <string name="delete_cancel_button">Отменить</string>
+
+    <string name="delete_failed">Невозможно удалить файл</string>
+    <string name="artist_name">Исполнитель</string>
+
+
+    <string name="alert_title_success">Успешно</string>
+    <string name="alert_title_failure">Ошибка</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_yes_button">Да, пожалуйста!</string>
+    <string name="alert_no_button">Нет, спасибо.</string>
+    <string name="play">Играть</string>
+    <string name="stop">Остановить.</string>
+    <string name="search">Найти</string>
+
+
+    <string name="combine_two_strings" translatable="false">%1$s | %2$s</string>
+    <string name="duration_format" translatable="false"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+    <string name="ringtone_set">Рингтон установлен.</string>
+    <string name="set_ringtone">Установить рингтон!</string>
+    <string name="write_setting_text">Мелодия запросить \'Настройки записи\' для установки мелодии звонка. \n После предоставления разрешения попробуйте снова установить мелодию звонка.</string>
+    <string name="permission_required">Требуется разрешение.</string>
+    <string name="permission_required_desc">Разрешить приложению доступ к вашим рингтонам и музыкальной библиотеке</string>
+    <string name="allow">Разрешить</string>
+    <string name="contacts">Контакты</string>
+    <string name="search_library">Поиск..</string>
+
+
+    <array name="mdcolor_500">
+        <item name="red_500" type="color">#e51c23</item>
+        <item name="purple_500" type="color">#9c27b0</item>
+        <item name="indigo_500" type="color">#3f51b5</item>
+        <item name="blue_500" type="color">#5677fc</item>
+        <item name="light_blue_500" type="color">#03a9f4</item>
+        <item name="green_500" type="color">#259b24</item>
+        <item name="lime_500" type="color">#cddc39</item>
+        <item name="yellow_500" type="color">#ffeb3b</item>
+        <item name="deep_orange_500" type="color">#ff5722</item>
+        <item name="brown_500" type="color">#795548</item>
+        <item name="grey_500" type="color">#9e9e9e</item>
+        <item name="blue_grey_500" type="color">#607d8b</item>
+        <item name="black_500" type="color">#000000</item>
+
+        <item name="red_900" type="color">#b0120a</item>
+        <item name="purple_900" type="color">#4a148c</item>
+        <item name="indigo_900" type="color">#1a237e</item>
+        <item name="cyan_900" type="color">#006064</item>
+        <item name="green_900" type="color">#0d5302</item>
+        <item name="lime_900" type="color">#827717</item>
+        <item name="deep_orange_900" type="color">#bf360c</item>
+        <item name="grey_900" type="color">#212121</item>
+        <item name="blue_grey_900" type="color">#263238</item>
+    </array>
+
+
+
+</resources>
